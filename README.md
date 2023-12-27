@@ -9,6 +9,11 @@ WorldWise is a React application that allows users to explore cities from around
 
 ## Acknowledgements
 The WorldWise application uses the following open-source libraries:
--
--
 
+- React
+- React router
+- Leaflet
+- React Leaflet
+- React DatePicker
+- JSON Server
+- ESLint
