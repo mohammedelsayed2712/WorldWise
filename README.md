@@ -1,8 +1,15 @@
-# React + Vite
+# WorldWise
+WorldWise is a React application that allows users to explore cities from around the world. It provides information about various cities, including their locations on a map, details about each city, and the ability to create and delete cities.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- View a list of cities and their locations on a map.
+- Click on a city marker to see detailed information about the city.
+- Create a new city by providing its details.
+- Delete a city from the list.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Available Scripts
+- ==npm run dev==:
+- ====
+- ====
+- ====
+- ====
