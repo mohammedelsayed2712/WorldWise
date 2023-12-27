@@ -8,7 +8,7 @@ WorldWise is a React application that allows users to explore cities from around
 - Delete a city from the list.
 
 ## Available Scripts
-- ==npm run dev==:
+- <mark>npm run dev<mark>
 - ====
 - ====
 - ====
