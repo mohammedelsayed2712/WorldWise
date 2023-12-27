@@ -9,7 +9,7 @@ WorldWise is a React application that allows users to explore cities from around
 
 ## Available Scripts
 - <mark style="background-color: #FFFF00">npm run dev<mark>
-- ==wsqw==
+- == wsqw ==
 - ====
 - ====
 - ====
